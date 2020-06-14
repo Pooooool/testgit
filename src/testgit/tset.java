@@ -5,8 +5,8 @@ public class tset {
 		System.out.println("hellogit");
 	}
 	public void desktop() {
-		System.out.println("desktop");
+		System.out.println("21点57分");
 	}
 }	
 
-//test from desktop-2
+//test from desktop-21点57分
